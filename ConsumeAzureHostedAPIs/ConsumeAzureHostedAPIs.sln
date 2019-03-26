@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeAzureHostedAPIs", "ConsumeAzureHostedAPIs\ConsumeAzureHostedAPIs.csproj", "{884D4A22-5C5D-4EF3-9CB1-0EEFE7C45B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeOdataAPIS", "ConsumeOdataAPIS\ConsumeOdataAPIS.csproj", "{CDD7C730-D3D2-4364-BCEC-23FCB533F1A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{884D4A22-5C5D-4EF3-9CB1-0EEFE7C45B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884D4A22-5C5D-4EF3-9CB1-0EEFE7C45B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884D4A22-5C5D-4EF3-9CB1-0EEFE7C45B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884D4A22-5C5D-4EF3-9CB1-0EEFE7C45B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD7C730-D3D2-4364-BCEC-23FCB533F1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD7C730-D3D2-4364-BCEC-23FCB533F1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD7C730-D3D2-4364-BCEC-23FCB533F1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD7C730-D3D2-4364-BCEC-23FCB533F1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBE946B-9568-4FCA-AE78-8B9F43EC7C18}
+	EndGlobalSection
+EndGlobal
